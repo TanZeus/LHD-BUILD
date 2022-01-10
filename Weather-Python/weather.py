@@ -6,8 +6,8 @@ from datetime import date
 
 now = datetime.now()
 place=input("Enter location of where you want the forecast for - ")
-t=input("For when do you want the weather forecast? - ")
-da=input("Which Date's weather forecast do you want? - ")
+t=input("For when do you want the weather forecast? [HH:MM:SS] - ")
+da=input("Which Date's weather forecast do you want? [YYYY-MM-DD] - ")
 current_time = now.strftime("%H:%M:%S")
 today=date.today()
 wf=wf.forecast(place,t,da,forecast="daily")
