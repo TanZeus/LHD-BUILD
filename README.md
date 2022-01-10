@@ -1,5 +1,6 @@
 # Local Hack Day: BUILD
-Files in this repository - 
+This Repository contains all the projects/challenges that i did in MLH LHD:BUILD 2022 
+This Repository Contains - 
   * Python Timer
   * Make a Animation for your name
   * Build a Script to check the Weather Forecast
