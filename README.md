@@ -1,2 +1,4 @@
-# PythonTimer
-A normal countdown timer made in python with time and datetime modules
+# Local Hack Day: BUILD
+Files in this repository - 
+  * Python Timer
+  * 
